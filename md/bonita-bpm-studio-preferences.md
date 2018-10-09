@@ -50,9 +50,6 @@ Proxy
 Advanced
    SVN connector: the SVN connector used if you are using a remote SVN ["repository](workspaces-and-repositories.md). Note: if you change this your local working copy might become unstable. To avoid this, commit any outstanding changes before you modify the connector setting, and reinitialize your local working copy after the update  
 
-6.x legacy
-   Controls whether the 6.x legacy features are shown are hidden 
-
 Eclipse
    Give access to all Eclipse settings (Bonita Studio is based on Eclipse)  
 
